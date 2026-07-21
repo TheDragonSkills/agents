@@ -1,2 +1,2 @@
-# agents
-Core Instructions for Agents
+# Core Instructions for Agents
+
